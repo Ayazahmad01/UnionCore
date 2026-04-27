@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.104.1",
     "jspdf-autotable": "^5.0.7",
     "lucide-react": "^1.11.0",
     "next": "latest",
